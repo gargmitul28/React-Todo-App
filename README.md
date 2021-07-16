@@ -1,4 +1,7 @@
 Todo App created using React Hooks
+
+![1](https://user-images.githubusercontent.com/68656122/125888972-6750ae32-2686-4bf9-bfe7-7fff67bb3cb3.png)
+
 ![1](https://user-images.githubusercontent.com/68656122/124221886-346d1d00-db1e-11eb-91a5-c1418eeb0e27.png)
 
 
